@@ -1,6 +1,8 @@
 Oliver
-<<<<<<< HEAD
 Niklaes
-=======
 Ali
->>>>>>> Navn 2.0
+
+
+
+
+Magnus
